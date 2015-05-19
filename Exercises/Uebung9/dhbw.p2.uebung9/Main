@@ -1,0 +1,16 @@
+package dhbw.p2.uebung9;
+
+import dhbw.p2.uebung9.gui.ThirdActionFrame;
+
+public class Main {
+
+	
+	
+	public static void main(String[] args){
+	
+	//ThirdActionFrame myFrame = new ThirdActionFrame();
+	
+	ThirdActionFrame.getInstance().setVisible(true);
+ }
+	
+}
